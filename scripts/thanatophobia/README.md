@@ -11,6 +11,7 @@ SEX="BTSX" # MLE for Male, FMLE for Female, BTSX for both sexes
 # ISO 3166-1 alpha-3 country code
 # https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
 COUNTRY="GLOBAL"
+CONFIG_FILE="/tmp/thanatophobia"
 ```
 
 ## Module
